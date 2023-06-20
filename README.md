@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArsenLupen53
 - 👀 I’m interested in Football
-- 🌱 I’m currently learning Html/Css
+- 🌱 I’m currently learning Html/Css/Js
 - 💞️ I’m looking to collaborate on web dev
 - 📫 How to reach me ...
 
