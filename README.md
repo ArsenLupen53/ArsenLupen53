@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ArsenLupen53
-- 👀 I’m interested in Football
+- 👀 I’m interested in Sport
 - 🌱 I’m currently learning Html/Css/Js
 - 💞️ I’m looking to collaborate on web dev
-- 📫 How to reach me ...
+- 📫 How to reach me @ab_guneli
 
 <!---
 ArsenLupen53/ArsenLupen53 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
