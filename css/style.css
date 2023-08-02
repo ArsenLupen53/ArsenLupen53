@@ -7,7 +7,20 @@ body {
     background-image:url("https://sm.ign.com/t/ign_tr/news/t/the-batman/the-batman-matt-reeves-reveals-robert-pattinsons-bruce-wayne_cdac.1280.jpg");
     background-size: cover;
     background-repeat: no-repeat;
+
     display: block;
+    color:white;
+}
+
+@media (max-width:1800px) {
+    body {
+        background-position:center;
+        background-color:rgba(255, 0, 0, 0.925);
+    }
+}
+
+.container{
+    justify-content: center;
 }
 
 .login-left {
