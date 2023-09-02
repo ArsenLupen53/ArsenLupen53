@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArsenLupen53
 - 👀 I’m interested in Tech/Sport
-- 🌱 I’m currently learning HTML/CSS/Javascript
+- 🌱 I’m currently learning HTML/CSS/Javascript/Python/SQL
 - 💞️ I’m looking to collaborate on web dev
 - 📫 How to reach me @ab_guneli
 
