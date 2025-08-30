@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ArsenLupen53
-- 👀 I’m interested in Tech/Sport
+- 👋 Hi, I’m @ab_guneli
+- 👀 I’m interested in Tech/Sport/AI
 - 🌱 I’m currently working on HTML/CSS/Javascript/Python/SQL
-- 💞️ I’m looking to collaborate on web dev
+- 💞️ I’m looking to collaborate on AI/Data projects
 - 📫 How to reach me @ab_guneli
 
 <!---
