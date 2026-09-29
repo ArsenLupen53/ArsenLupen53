@@ -1,5 +1,5 @@
 # 💫 About Me:
-👀 I’m interested in AI/Machine Learning/Deep Learning/Robotics<br>🌱 I’m currently working on Python/SQL/C++<br>💞️ I’m looking to collaborate on AI/Data projects<br>
+👀 I’m interested in AI/Machine Learning/Deep Learning/Robotics<br><br>💞️ I’m looking to collaborate on AI/Data projects<br>
 
 
 ## 🌐 Socials:
